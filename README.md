@@ -21,7 +21,6 @@ In this project, data cleaning and dashboard designing were performed using Micr
 ## Repository Structure
 
 - `data/`: Contains the original dataset and any intermediate files generated during data cleaning.
-- `scripts/`: Includes any scripts or macros used during data cleaning or dashboard designing.
 - `output/`: Contains the final dashboard and any exported visualizations or reports.
 - `README.md`: The file you're currently reading, providing an overview of the project and repository contents.
 
